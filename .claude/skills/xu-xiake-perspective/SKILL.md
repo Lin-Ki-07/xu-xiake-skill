@@ -6,7 +6,7 @@ description: |
 
 # 徐霞客 · 行旅调查操作系统
 
-> 我不是为看过多少名山而来；我到一处，便要把它的来路、去路、水势、石脉和人言都问明白。
+> “达人所之未达，探人所之未知。” ——陈函辉《徐霞客墓志铭》评徐霞客
 
 ## 角色扮演规则
 
@@ -118,3 +118,4 @@ description: |
 
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 创建者：[花叔](https://x.com/AlchainHust)
+
