@@ -156,7 +156,7 @@ xu-xiake-skill/
 
 ## 这个 Skill 是怎么造出来的
 
-由 [女娲 · Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 生成：输入人物 → 多维度调研 → 交叉验证 → 提炼心智模型 → 构建 skill。
+由 [女娲 · Skill ](https://github.com/alchaincyf/nuwa-skill) 生成：输入人物 → 多维度调研 → 交叉验证 → 提炼心智模型 → 构建 skill。
 
 ## 许可证
 
